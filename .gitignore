@@ -1,12 +1,4 @@
-node_modules/
-.next/
-out/
-.env
-.env.local
-*.tsbuildinfo
-next-env.d.ts
-.DS_Store
-
-# local only
+# local-only artifacts
 _old_app/
-*.zip
+naengpatube.zip
+build.log
